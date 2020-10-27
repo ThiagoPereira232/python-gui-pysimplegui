@@ -50,4 +50,3 @@ class TelaPython:
                     print(f'A divição de de {x} / {y} é {res}')
 
 tela = TelaPython()
-tela.Iniciar()tela.Iniciar()
